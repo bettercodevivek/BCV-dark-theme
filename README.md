@@ -1,10 +1,16 @@
-# bcv-dark-theme README
+<h1>BCV-Dark-Theme README</h1>
 
-Here is a personalised Visual Studio Code Color Theme, I made this for all the dark theme lovers
+<p>Here is a personalised Visual Studio Code Color Theme, I made this for all the dark theme lovers</p>
 
-Here are a few screenshots of the theme:-
+  <p>Here are a few screenshots of the theme:-</p>
  <p>Screenshot-1</p>
- <img src="themes/screenshot(29).png">
+ <img src="themes/Screenshot (25).png>
+ <p>Screenshot-2</p>
+ <img src="themes/Screenshot (26).png>
+ <p>Screenshot-3</p>
+ <img src="themes/Screenshot (27).png>
+ <p>Screenshot-4</p>
+ <img src="themes/Screenshot (28).png>
 
 
 **Enjoy!**
