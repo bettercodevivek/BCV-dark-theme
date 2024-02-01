@@ -1,0 +1,32 @@
+{
+  "name": "bcv-dark-theme",
+  "displayName": "BCV-Dark Theme",
+  "description": "A dark theme with vibrant colors for dark theme lovers for long coding sessions",
+  "version": "0.0.1",
+  "publisher": "Bettercodevivek",
+  "repository": {
+    "type": "git",
+    "url":"https://github.com/bettercodevivek/BCV-dark-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "bettercodevivek",
+    "bcv-dark theme"
+  ],
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "bcv-dark-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bcv-dark-theme-color-theme.json"
+      }
+    ]
+  }
+}
